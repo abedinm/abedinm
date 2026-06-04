@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=150&section=header&rev=4" width="100%" alt="" />
 
 <h1 align="center">Minhazul Abedin</h1>
-<p align="center"><b>Offline-first SaaS &amp; AI Tooling Developer</b></p>
+<p align="center"><b>Full-stack Developer &middot; Client Websites &middot; SaaS &amp; AI Tooling</b></p>
 
 <!-- TYPING SUBTITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full-stack+Developer+%F0%9F%9A%80;Offline-first+SaaS+Builder+%E2%9A%A1;FastAPI+%2B+React+%2B+Electron;AI+Tooling+%26+Local-first+Apps+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full-stack+Developer+%F0%9F%9A%80;Client+Websites+%26+Web+Apps+%F0%9F%8C%90;SaaS+Products+%26+AI+Tooling+%E2%9A%A1;FastAPI+%2B+React+%2B+TypeScript+%2B+Electron" alt="Typing SVG" />
 </div>
 
 <!-- BADGES -->
@@ -23,11 +23,11 @@
 
 <div align="center">
 
-I build software that keeps working **when the cloud doesn't** — privacy-respecting,<br/>
-local-first **business and AI tools** with FastAPI, React, TypeScript, and Electron.<br/>
-My focus is **production-grade desktop and web apps** that real teams run daily — not demos.
+Full-stack developer. I build **websites and web apps for clients**, my own **SaaS products**, and **AI tooling** —<br/>
+end to end, with FastAPI, React, TypeScript, and Electron.<br/>
+I care about **production-grade software real people use**, and I specialize in **offline-first apps** that keep working without the cloud.
 
-🔹 Offline-first SaaS architecture &nbsp;•&nbsp; 🔹 AI coding & business tooling &nbsp;•&nbsp; 🔹 Full-stack product engineering
+🔹 Client websites & web apps &nbsp;•&nbsp; 🔹 SaaS & AI product engineering &nbsp;•&nbsp; 🔹 Offline-first / local-first architecture
 
 </div>
 
