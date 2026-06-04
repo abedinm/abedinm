@@ -16,31 +16,31 @@
 <br/>
 
 <!-- ABOUT -->
-<h2 align="center">ðŸ‘¨â€ðŸ’» About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-I build software that keeps working **when the cloud doesn't** â€” privacy-respecting,<br/>
+I build software that keeps working **when the cloud doesn't** — privacy-respecting,<br/>
 local-first **business and AI tools** with FastAPI, React, TypeScript, and Electron.<br/>
-My focus is **production-grade desktop and web apps** that real teams run daily â€” not demos.
+My focus is **production-grade desktop and web apps** that real teams run daily — not demos.
 
-ðŸ”¹ Offline-first SaaS architecture &nbsp;â€¢&nbsp; ðŸ”¹ AI coding & business tooling &nbsp;â€¢&nbsp; ðŸ”¹ Full-stack product engineering
+🔹 Offline-first SaaS architecture &nbsp;•&nbsp; 🔹 AI coding & business tooling &nbsp;•&nbsp; 🔹 Full-stack product engineering
 
 </div>
 
 <!-- CURRENTLY BUILDING -->
-<h2 align="center">ðŸš€ Currently Building</h2>
+<h2 align="center">🚀 Currently Building</h2>
 
 <div align="center">
 
-ðŸ—ï¸ Expanding **[enterprisecore-ai-suite](https://github.com/abedinm/enterprisecore-ai-suite)** â€” a 130-module offline-capable business + AI coding suite<br/>
-ðŸ§  Adding **local model routing**, a **module marketplace**, and a **one-click desktop installer**<br/>
-ðŸŒ Shipping landing pages & PWAs across the EnterpriseCore ecosystem
+🏗️ Expanding **[enterprisecore-ai-suite](https://github.com/abedinm/enterprisecore-ai-suite)** — a 130-module offline-capable business + AI coding suite<br/>
+🧠 Adding **local model routing**, a **module marketplace**, and a **one-click desktop installer**<br/>
+🌐 Shipping landing pages & PWAs across the EnterpriseCore ecosystem
 
 </div>
 
 <!-- TECH STACK -->
-<h2 align="center">ðŸ› ï¸ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -61,23 +61,23 @@ My focus is **production-grade desktop and web apps** that real teams run daily 
 </div>
 
 <!-- FEATURED PROJECTS -->
-<h2 align="center">â­ Featured Projects</h2>
+<h2 align="center">⭐ Featured Projects</h2>
 
 <div align="center">
 
 | Project | What it does | Stack | Live |
 |:--|:--|:--|:-:|
-| **[enterprisecore-ai-suite](https://github.com/abedinm/enterprisecore-ai-suite)** | 130-module offline-capable business + AI coding suite | `FastAPI` `React` `Electron` | â€” |
-| **[enterprisecore-foundation](https://github.com/abedinm/enterprisecore-foundation)** | Enterprise SaaS foundation: JWT auth, RBAC, audit log | `FastAPI` `React` `SQLite` | â€” |
+| **[enterprisecore-ai-suite](https://github.com/abedinm/enterprisecore-ai-suite)** | 130-module offline-capable business + AI coding suite | `FastAPI` `React` `Electron` | — |
+| **[enterprisecore-foundation](https://github.com/abedinm/enterprisecore-foundation)** | Enterprise SaaS foundation: JWT auth, RBAC, audit log | `FastAPI` `React` `SQLite` | — |
 | **[DocAtHome](https://github.com/abedinm/DocAtHome)** | Role-based home healthcare system, full booking + payment flow | `C#` `WinForms` `SQL Server` | Desktop |
 | **[dhaka-utilities-map](https://github.com/abedinm/dhaka-utilities-map)** | Interactive city map with 13 color-coded utility layers | `Leaflet` `OpenStreetMap` | **[Open](https://abedinm.github.io/dhaka-utilities-map/)** |
-| **[codex-tools](https://github.com/abedinm/codex-tools)** | 11 installable PWA tools for university students | `JavaScript` `PWA` | â€” |
-| **[license-server](https://github.com/abedinm/license-server)** | License issuance, verification, and revocation service | `FastAPI` `Python` | â€” |
+| **[codex-tools](https://github.com/abedinm/codex-tools)** | 11 installable PWA tools for university students | `JavaScript` `PWA` | — |
+| **[license-server](https://github.com/abedinm/license-server)** | License issuance, verification, and revocation service | `FastAPI` `Python` | — |
 
 </div>
 
 <!-- STATS -->
-<h2 align="center">ðŸ“Š GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abedinm&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="streak" width="80%" />
@@ -93,7 +93,7 @@ My focus is **production-grade desktop and web apps** that real teams run daily 
 </div>
 
 <!-- CONTACT -->
-<h2 align="center">ðŸ“« Connect With Me</h2>
+<h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
   <a href="https://abedinm.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" /></a>
