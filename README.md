@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=210&section=header&text=Minhazul%20Abedin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Offline-first%20SaaS%20%26%20AI%20Tooling%20Developer&descAlignY=56&descSize=20" width="100%" alt="Minhazul Abedin" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=210&section=header&text=Minhazul%20Abedin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Offline-first%20SaaS%20%26%20AI%20Tooling%20Developer&descAlignY=56&descSize=20&rev=2" width="100%" alt="Minhazul Abedin" />
 
 <!-- TYPING SUBTITLE -->
 <div align="center">
@@ -104,4 +104,4 @@ My focus is **production-grade desktop and web apps** that real teams run daily 
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer&rev=2" width="100%" alt="footer" />
