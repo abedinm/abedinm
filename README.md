@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=210&section=header&text=Minhazul%20Abedin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Offline-first%20SaaS%20%26%20AI%20Tooling%20Developer&descAlignY=56&descSize=20&rev=2" width="100%" alt="Minhazul Abedin" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=210&section=header&text=Minhazul%20Abedin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Offline-first%20SaaS%20%26%20AI%20Tooling%20Developer&descAlignY=58&descSize=20&rev=3" width="100%" alt="Minhazul Abedin" />
 
 <!-- TYPING SUBTITLE -->
 <div align="center">
